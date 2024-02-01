@@ -8,7 +8,6 @@ import Contact from "./layouts/Contact.jsx";
 import Info from "./layouts/Info.jsx";
 import Footer from "./layouts/Footer.jsx";
 import "./App.css";
-import "/public/css/bootstrap.css";
 
 function App() {
   return (
